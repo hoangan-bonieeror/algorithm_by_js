@@ -1,0 +1,19 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "heapsort" : "node src/HeapSort.js",
+    "printstar" : "node src/printsao.js",
+    "tamgiaccan" : "node src/tamgiaccan.js",
+    "coinrow" : "node src/DynamicProgramming/CoinRow.js",
+    "decodeCeasar" : "node src/encryption/CeasarCipher.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ranked": "^0.4.0"
+  }
+}
